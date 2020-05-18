@@ -4,4 +4,4 @@
 Minik Dostum Uygulaması
 
 ## Nasıl Çalışır?
-![enter image description here](https://hizliresim.com/iYgYpA)
+![enter image description here](https://i.hizliresim.com/iYgYpA.png)
