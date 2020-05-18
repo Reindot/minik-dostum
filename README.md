@@ -1,6 +1,6 @@
 # Minik Dostum
 
-The Application of Minik Dostum
+Minik Dostum Uygulaması
 
 ## Getting Started
 
