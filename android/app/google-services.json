@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "813121336695",
+    "firebase_url": "https://minik-dostum-01.firebaseio.com",
+    "project_id": "minik-dostum-01",
+    "storage_bucket": "minik-dostum-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813121336695:android:61f9e8d030f0d80bdbdd72",
+        "android_client_info": {
+          "package_name": "com.example.minikdostum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813121336695-hfe9s53nv49o092707vu4r3cgp2q7me8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtJKoWvvEzT-0mhiNlC9KaAVH5iDs1rBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813121336695-hfe9s53nv49o092707vu4r3cgp2q7me8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
